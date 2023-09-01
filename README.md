@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi,  I'm dmkk3r 👋
+#### I am a software developer
 
-<!--
-**dmkk3r/dmkk3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- C#/dotnet - Rust - Typescript - React - Svelte/Kit 
+- 🔭 I’m currently working on RetroRealm, TrackTogether and SEVEN
+- 👯 I’m looking to collaborate on Cool projects written in Rust / SvelteKit
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=dmkk3r&show_icons=true&theme=dark" alt="dmkk3r" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmkk3r&theme=dark" width="48%" >
+
+_NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub._
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmkk3r&layout=compact&theme=dark)
