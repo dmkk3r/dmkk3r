@@ -2,7 +2,7 @@
 #### I am a software developer
 
 - C#/dotnet - Rust - Typescript - React - Svelte/Kit 
-- 🔭 I’m currently working on ebay.Sharp, RetroRealm, RetroRelics, TrackTogether and [SEVEN](https://github.com/MRoehricht/SEVEN)
+- 🔭 I’m currently working on RetroRealm, SaveHaven and [SEVEN](https://github.com/MRoehricht/SEVEN)
 - 👯 I’m looking to collaborate on Cool projects written in Rust / SvelteKit
 
 ### GitHub Stats
