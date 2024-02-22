@@ -1,9 +1,9 @@
 ## Hi,  I'm dmkk3r 👋
 #### I am a software developer
 
-- C#/dotnet - Rust - Typescript - React - Svelte/Kit 
-- 🔭 I’m currently working on RetroRealm, SaveHaven and [SEVEN](https://github.com/MRoehricht/SEVEN)
-- 👯 I’m looking to collaborate on Cool projects written in Rust / SvelteKit
+- C#/dotnet - Rust - Typescript - Svelte/Kit 
+- 🔭 I’m currently working on RazorHx, ployd and some private projects
+- 👯 I’m looking to collaborate on cool projects written in dotnet / Rust / SvelteKit
 
 ### GitHub Stats
 
