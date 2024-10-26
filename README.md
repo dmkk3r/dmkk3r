@@ -1,9 +1,9 @@
 ## Hi,  I'm dmkk3r 👋
 #### I am a software developer
 
-- C#/dotnet - Rust - Typescript - Svelte/Kit 
-- 🔭 I’m currently working on RazorHx, ployd and some private projects
-- 👯 I’m looking to collaborate on cool projects written in dotnet / Rust / SvelteKit
+- C#/.NET - Svelte/Sveltekit 
+- 🔭 I’m currently working on ployd and some private projects
+- 👯 I’m looking to collaborate on cool projects written in .NET / Svelte / SvelteKit
 
 ### GitHub Stats
 
