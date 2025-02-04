@@ -1,9 +1,9 @@
 ## Hi,  I'm dmkk3r 👋
 #### I am a software developer
 
-- C#/.NET - Sveltekit 
-- 🔭 I’m currently working on ployd, RazorHx and some private projects
-- 👯 I’m looking to collaborate on cool projects written in .NET / SvelteKit
+- 🪴 C# / .NET
+- 🔭 Currently working on ployd, RazorHx and some private projects
+- 👯 Looking to collaborate on cool projects written in .NET
 
 ### GitHub Stats
 
