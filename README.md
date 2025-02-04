@@ -7,6 +7,9 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=dmkk3r&show_icons=true&theme=dark" alt="dmkk3r"/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmkk3r&layout=compact&theme=dark)
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dmkk3r&theme=dark" />
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmkk3r&layout=donut&langs_count=8&card_width=320&theme=dark" />
+</span>
